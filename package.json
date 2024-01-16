@@ -1,0 +1,19 @@
+{
+  "name": "teamsystem",
+  "version": "0.0.1",
+  "description": "OpenLDAP + iRedMail + RocketChat + Gitlab + NextCloud",
+  "main": "index.js",
+  "authors": {
+    "name": "Junzh",
+    "email": "junzh666@gmail.com"
+  },
+  "repository": "teamsystem/teamsystem",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
